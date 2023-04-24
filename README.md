@@ -2,8 +2,8 @@
 
 Lab Controller app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
