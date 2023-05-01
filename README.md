@@ -44,7 +44,7 @@ Lab Controller is about Control computers lab by related real time base and sign
 - [x] [lite_rolling_switch]
 - [x] [image_picker]
 --------------------------
-## Screen shotes 
+## Screenshots 
 <img src="https://user-images.githubusercontent.com/43098702/235541202-d6aca037-14fd-4bfc-9426-707cc8f13324.jpg" width="200" height="400" />
 --------------------------------
 <img src="https://user-images.githubusercontent.com/43098702/235541204-24a51c1f-3a7a-4b18-9672-83f9f3eaf1b6.jpg" width="200" height="400" />
