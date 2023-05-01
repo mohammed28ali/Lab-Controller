@@ -46,6 +46,7 @@ Lab Controller is about Control computers lab by related real time base and sign
 --------------------------
 ## Screen shotes 
 ![1](https://user-images.githubusercontent.com/43098702/235541202-d6aca037-14fd-4bfc-9426-707cc8f13324.jpg=250x250)
+<img src="https://user-images.githubusercontent.com/43098702/235541202-d6aca037-14fd-4bfc-9426-707cc8f13324.jpg" width="200" height="400" />
 --------------------------------
 ![2](https://user-images.githubusercontent.com/43098702/235541204-24a51c1f-3a7a-4b18-9672-83f9f3eaf1b6.jpg)
 --------------------------------
