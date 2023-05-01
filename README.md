@@ -49,19 +49,19 @@ Lab Controller is about Control computers lab by related real time base and sign
 --------------------------------
 <img src="https://user-images.githubusercontent.com/43098702/235541204-24a51c1f-3a7a-4b18-9672-83f9f3eaf1b6.jpg" width="200" height="400" />
 --------------------------------
-![3](https://user-images.githubusercontent.com/43098702/235541210-6643445d-50d6-439b-a629-f7b162a01805.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541210-6643445d-50d6-439b-a629-f7b162a01805.jpg" width="200" height="400" />
 --------------------------------
-![4](https://user-images.githubusercontent.com/43098702/235541213-f36a5a95-99b4-472d-89fe-345caab74d1d.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541213-f36a5a95-99b4-472d-89fe-345caab74d1d.jpg" width="200" height="400" />
 --------------------------------
-![5](https://user-images.githubusercontent.com/43098702/235541218-8d29f792-8155-4692-9b46-00d395703f46.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541218-8d29f792-8155-4692-9b46-00d395703f46.jpg" width="200" height="400" />
 --------------------------------
-![6](https://user-images.githubusercontent.com/43098702/235541222-c433c00d-c430-4a86-ab60-b09a501421a0.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541222-c433c00d-c430-4a86-ab60-b09a501421a0.jpg" width="200" height="400" />
 --------------------------------
-![7](https://user-images.githubusercontent.com/43098702/235541226-682e1382-7ec0-4385-8abf-7dd055781754.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541226-682e1382-7ec0-4385-8abf-7dd055781754.jpg" width="200" height="400" />
 --------------------------------
-![8](https://user-images.githubusercontent.com/43098702/235541232-09538512-8d65-4121-8a52-8c38700bee97.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541232-09538512-8d65-4121-8a52-8c38700bee97.jpg" width="200" height="400" />
 --------------------------------
-![9](https://user-images.githubusercontent.com/43098702/235541236-3551dc20-173d-4778-b47e-279508a9a696.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541236-3551dc20-173d-4778-b47e-279508a9a696.jpg" width="200" height="400" />
 --------------------------------
-![10](https://user-images.githubusercontent.com/43098702/235541240-353379c9-d065-41bd-a193-f67cc2bd4715.jpg)
+<img src="https://user-images.githubusercontent.com/43098702/235541240-353379c9-d065-41bd-a193-f67cc2bd4715.jpg" width="200" height="400" />
 --------------------------------
